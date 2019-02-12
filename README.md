@@ -2,8 +2,8 @@
 a test of advanced git
 
 
-SOP
+SOP:
 
-stick to your own branch
-once done submit pull request
-once merged move on to next task
+stick to your own branch,
+once done submit pull request,
+once merged move on to next task,
